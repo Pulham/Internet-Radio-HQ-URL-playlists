@@ -81,6 +81,8 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/a
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
 #EXTINF:0, - BBC 6music
 http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+#EXTINF:0, - Park Radio Diss
+http://s32.myradiostream.com/:18756/listen.mp3
 #EXTINF:0, - SUN RADIO FLAC
 http://diffusion.lafrap.fr:8000/sun.flac
 #EXTINF:0, - H2O RADIO FLAC
@@ -117,8 +119,6 @@ http://mscp3.live-streams.nl:8250/class-flac.flac
 http://uk3.internet-radio.com:8405/live
 #EXTINF:0, - Country Hits Radio - Just Great Country Songs!
 http://188.165.232.7:8037/stream
-#EXTINF:0, - Country Barnyard Indie Radio
-http://178.32.62.167:8039/stream
 #EXTINF:0, - Pure Radio Holland Various
 http://streamserver.pure-isp.eu:8060/flac
 #EXTINF:0, - Pure Radio Holland - Downtempo
@@ -127,8 +127,6 @@ http://streamserver.pure-isp.eu:8040/flac
 http://192.99.35.215:5354/stream
 #EXTINF:0, - Jazzcafe320
 http://radio.wanderingsheep.net:8090/jazzcafe320
-#EXTINF:0, - Scorpios Athens Radio
-http://cast.streams.ovh:12116/stream
 #EXTINF:0, - Insanity Unprocessed
 http://stream.cor.insanityradio.com/insanity_unprocessed.flac
 #EXTINF:0, - Radioblues-Flac
@@ -173,8 +171,6 @@ http://amp.cesnet.cz:8000/cro1-256.ogg
 http://mediaserv21.live-streams.nl:8000/stream
 #EXTINF:0, - 107.8 Radio Jackie Finesse - The Sound of South West London
 http://www.radiojackie.com:5873/;
-#EXTINF:0, - Blurfm03
-https://live.radiovague.com:8443/blurfm03
 #EXTINF:0, - KRUI
 http://krui.student-services.uiowa.edu:8000/listen
 #EXTINF:0, - WGUC
@@ -225,8 +221,6 @@ http://cp.ultimate-stream-hosting.de:8010/stream
 https://stream.and-stuff.nl:8443/riverside
 #EXTINF:0, - Free Music Radio
 http://stream.freemusicradio.nl:8100/stream.oga
-#EXTINF:0, - DI Radio Digital Impulse
-http://5.39.71.159:8994/stream
 #EXTINF:0, - PARTY VIBE RADIO : REGGAE
 http://94.130.242.5:8000/stream
 #EXTINF:0, - tmefm bluegrass
@@ -257,7 +251,7 @@ https://uk1.streamingpulse.com/ssl/grollooradio
 http://radio.folkbg.net:8000/;;
 #EXTINF:0, - WorldTree-hq
 http://radio.frs.snc.ru:8000/WorldTree-hq
-#EXTINF:0,WUVT - FM 90.7 Blacksburg, VA [AAC 320 kbps]
+#EXTINF:0, - FM 90.7 Blacksburg, VA [AAC 320 kbps]
 http://stream.wuvt.vt.edu/wuvt-hq.aac
 #EXTINF:0, - Evasion75
 http://rnt.hpi.fr/evasion75
@@ -265,7 +259,7 @@ http://rnt.hpi.fr/evasion75
 https://secureonair.krone.at/kronehit-ultra-hd.aac
 #EXTINF:0, - Lovely
 http://rnt.hpi.fr/Lovely
-#EXTINF:0,M - 1 Plius
+#EXTINF:0, - 1 Plius
 http://radio.m-1.fm/m1plius/aacp320
 #EXTINF:0, - Mbs
 http://rnt.hpi.fr/mbs
@@ -277,5 +271,5 @@ http://80.249.249.245:8000/telstar
 http://94.23.252.14:8227/stream
 #EXTINF:0, - 70 80s hq hits
 http://91.121.104.139:9280/
-#EXTINF:0, - Park Radio Diss
-http://s32.myradiostream.com/:18756/listen.mp3
+#EXTINF:0, - Time-Warp Ireland
+https://stream1.themediasite.co.uk/8050/stream
