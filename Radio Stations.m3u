@@ -13,8 +13,6 @@ http://live.ncradio.fm/320
 http://mobile.customchannels.net/mcintosh_tunein
 #EXTINF:0, - Radio Caroline
 http://78.129.202.200:8030/;
-#EXTINF:0, - Naim Radio
-https://mscp3.live-streams.nl:8362/flac.flac
 #EXTINF:0, - JB Radio2
 https://maggie.torontocast.com:8076/flac
 #EXTINF:0, - Superstereo one
@@ -273,3 +271,15 @@ http://94.23.252.14:8227/stream
 http://91.121.104.139:9280/
 #EXTINF:0, - Time-Warp Ireland
 https://stream1.themediasite.co.uk/8050/stream
+#EXTINF:0, - Motherearth Klassik
+http://server9.streamserver24.com:18910/motherearth.klassik
+#EXTINF:0, - Motherearth Instrumental
+http://server9.streamserver24.com:18920/motherearth.instrumental
+#EXTINF:0, - Dance Wave Flac
+http://dancewave.online/dance.flac.ogg
+#EXTINF:0, - Retrodance Flac
+http://retro.dancewave.online/retrodance.flac.ogg
+#EXTINF:0, - Naim Jazz
+http://mscp3.live-streams.nl:8340/jazz-flac.flac
+#EXTINF:0, - Naim Radio Flac
+http://mscp3.live-streams.nl:8360/flac.flac
