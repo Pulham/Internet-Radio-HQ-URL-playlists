@@ -17,6 +17,8 @@ http://78.129.202.200:8030/;
 https://maggie.torontocast.com:8076/flac
 #EXTINF:0, - Superstereo one
 http://198.204.228.202:8160/flac
+#EXTINF:0, - Superstereo one 192
+http://ingest-mia.radiomast.io/8a760c25-fb95-4fcb-9c0e-ca0f269a7360
 #EXTINF:0, - Superstereo two
 http://198.204.228.202:8157/flac
 #EXTINF:0, - Superstereo three
