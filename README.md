@@ -17,3 +17,12 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 
 01 Apr 2022 - Removed Country Barnyard, Scorpios Athens, BlurFM3 and DJ Radio Digital Impulse - all not working.
 
+21 Apr 2022 - Updated Naim radio flac. Added Naim Jazz flac.
+
+21 Apr 2022 - Added Motherearth Klassik and Instrumental (both flac).
+
+21 Apr 2022 - Added Dance Wave Flac and Retro Dance Wave flac.
+
+21 Apr 2022 - Added Superstereo one HiRes 24-bit/192kHz Test server - positioned under the standard one and two.
+
+21 Apr 2022 - KlausPro is down at the moment as they are installing a new server.
