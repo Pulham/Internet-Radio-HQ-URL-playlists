@@ -15,6 +15,8 @@ http://mobile.customchannels.net/mcintosh_tunein
 http://78.129.202.200:8030/;
 #EXTINF:0, - JB Radio2
 https://maggie.torontocast.com:8076/flac
+#EXTINF:0, - JB Radio2 (metadata)
+http://176.57.184.130:8889/flac
 #EXTINF:0, - Superstereo one
 http://198.204.228.202:8160/flac
 #EXTINF:0, - Superstereo one 192
