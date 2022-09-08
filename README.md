@@ -28,3 +28,7 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 21 Apr 2022 - KlausPro is down at the moment as they are installing a new server.
 
 26 May 2022 - Added JB Radio2 stream with artist metadata (doesn't display on Kodi but does on VLC player - including both streams for now)
+
+08 Sep 2022 - Added Superstereo 7, Radio Calico and Maxxima flac streams.
+
+08 Sep 2022 - Removed Telstar, Pure Radio Holland downtempo, Pure Radio Holland various, Britpop radio, Free Music Radio, Turnon, Time-warp Ireland, WorldTree  and Italian Radio 2. All not working.
