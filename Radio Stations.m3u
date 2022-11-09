@@ -97,8 +97,6 @@ http:\\diffusion.lafrap.fr:8000\sun.flac
 http:\\master.net-radio.fr:80\h2oradio.flac
 #EXTINF:0, - THE CHEESE FLAC
 http:\\thecheese.ddns.net:8004\stream
-#EXTINF:0, - ZOG FLAC
-http:\\icecast.zog.net.au:8000\source
 #EXTINF:0, - 95B FM FLAC
 http:\\streams.95bfm.com:80\stream112
 #EXTINF:0, - Magic Radio Flac
