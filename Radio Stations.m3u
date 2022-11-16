@@ -275,3 +275,11 @@ http:\\besidefm.ga:8000\stream
 http:\\server9.streamserver24.com:18910\motherearth.klassik
 #EXTINF:0, - Motherearth Instrumental
 http:\\server9.streamserver24.com:18920\motherearth.instrumental
+#EXTINF:0, - BDPST ROCK Radio
+http:\\s2.audiostream.hu:8091\bdpstrock_FLAC
+#EXTINF:0, - W1D4
+http:\\azura.coixia.com:7100\high
+#EXTINF:0, - Danubius Radio
+http:\\stream.danubiusradio.hu:8091\danubius_HiFi
+#EXTINF:0, - Radio Juventus
+http:\\s2.audiostream.hu:8090\juventus_FLAC
