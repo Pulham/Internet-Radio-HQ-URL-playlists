@@ -35,4 +35,4 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 
 09 Nov 2022 - Updated Superstereo 5 URL, removed Zog radio (ceased broadcasting).
 
-16 Nov 2022 - Added W1D4, Danubius and Juventus radio - all flac streams.
+16 Nov 2022 - Added W1D4, Danubius, BDPST Rock and Juventus radio - all flac streams.
