@@ -283,3 +283,5 @@ http:\\azura.coixia.com:7100\high
 http:\\stream.danubiusradio.hu:8091\danubius_HiFi
 #EXTINF:0, - Radio Juventus
 http:\\s2.audiostream.hu:8090\juventus_FLAC
+#EXTINF:0, - Radio Audiomastering
+http:\\radio.audiomastering.lt:8000\pure
