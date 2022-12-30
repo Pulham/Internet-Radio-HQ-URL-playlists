@@ -38,3 +38,8 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 16 Nov 2022 - Added W1D4, Danubius, BDPST Rock and Juventus radio - all flac streams.
 
 24 Nov 2022 - Added Radio Audiomastering flac stream. Made .m3u8 file available.
+
+30 Dec 2022 - Removed Park Radio Diss, BesideFM, W1D4 - not working. Also removed Radio Caroline 259 Gold and Radio West Norfolk couldn't get to work with my VPN. Renamed Prog-Flac to Sector Progressive, Space-flac to Sector Space, Nota-flac to Sector Classical, Geny-Flac to Sector 80s, Next-flac to Sector 90s, Zed-flac to Sector 10s. Added Soma Indie, 60North Radio, Soma Celtic, Soma Dub, Soma Seven Inch Soul, Insanity, Soul City FM, Sputnik Techno, Timewarp Ireland (128), PureClassix and San Fransisco 70s.
+
+
+
