@@ -9,13 +9,13 @@ https://maggie.torontocast.com:8076/flac
 http://176.57.184.130:8889/flac
 http://198.204.228.202:8160/flac
 http://ingest-mia.radiomast.io/8a760c25-fb95-4fcb-9c0e-ca0f269a7360
-http://198.204.228.202:8643/SS8
 http://198.204.228.202:8157/flac
 http://198.204.228.202:8539/flac
 http://198.204.228.202:8030/flac
 http://198.204.228.202:8511/canal1
 http://198.204.228.202:8157/flac6
 http://198.204.228.202:8030/flac7
+http://198.204.228.202:8643/SS8
 http://radio.linn.co.uk:8003/stream
 http://mscp2.live-streams.nl:8100/flac.flac
 http://mediaserv30.live-streams.nl:8086/live
@@ -150,3 +150,4 @@ http://stream1.themediasite.co.uk/8050/stream
 http://mscp4.live-streams.nl:8140/flac.ogg
 https://s9.voscast.com:8917/listen.mp3
 http://stream.stormtx.co.uk:8009/juice-lossless
+https://mp3.radiox.ch/standard.ogg

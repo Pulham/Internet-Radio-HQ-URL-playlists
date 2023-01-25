@@ -13,16 +13,14 @@ http://live.ncradio.fm/320
 http://mobile.customchannels.net/mcintosh_tunein
 #EXTINF:0, - Radio Caroline
 http://78.129.202.200:8030/;
-#EXTINF:0, - JB Radio2
+#EXTINF:0, - JB Radio2 [metadata]
 https://maggie.torontocast.com:8076/flac
-#EXTINF:0, - JB Radio2 (metadata)
+#EXTINF:0, - JB Radio2
 http://176.57.184.130:8889/flac
 #EXTINF:0, - Superstereo one
 http://198.204.228.202:8160/flac
 #EXTINF:0, - Superstereo one 192
 http://ingest-mia.radiomast.io/8a760c25-fb95-4fcb-9c0e-ca0f269a7360
-#EXTINF:0, - SuperStereo 8 - Natural Sound For Audiophiles
-http://198.204.228.202:8643/SS8
 #EXTINF:0, - Superstereo two
 http://198.204.228.202:8157/flac
 #EXTINF:0, - Superstereo three
@@ -35,6 +33,8 @@ http://198.204.228.202:8511/canal1
 http://198.204.228.202:8157/flac6
 #EXTINF:0, - Superstereo seven
 http://198.204.228.202:8030/flac7
+#EXTINF:0, - SuperStereo 8 - Natural Sound For Audiophiles
+http://198.204.228.202:8643/SS8
 #EXTINF:0, - Linn Radio
 http://radio.linn.co.uk:8003/stream
 #EXTINF:0, - HILINE FLAC
@@ -303,3 +303,5 @@ http://mscp4.live-streams.nl:8140/flac.ogg
 https://s9.voscast.com:8917/listen.mp3
 #EXTINF:0, - Juice 1038
 http://stream.stormtx.co.uk:8009/juice-lossless
+#EXTINF:0, - Radio X
+https://mp3.radiox.ch/standard.ogg
