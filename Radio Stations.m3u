@@ -297,11 +297,23 @@ http://euk-85965.eukservers.com:8000/soul
 http://radiosputnik.nl:8002/flac
 #EXTINF:0, - timewarp ireland
 http://stream1.themediasite.co.uk/8050/stream
-#EXTINF:0, - PureClassix
-http://mscp4.live-streams.nl:8140/flac.ogg
 #EXTINF:0, - San Francisco 70s
 https://s9.voscast.com:8917/listen.mp3
+#EXTINF:0, - PureClassix
+http://mscp4.live-streams.nl:8140/flac.ogg
 #EXTINF:0, - Juice 1038
 http://stream.stormtx.co.uk:8009/juice-lossless
 #EXTINF:0, - Radio X
 https://mp3.radiox.ch/standard.ogg
+#EXTINF:0, - OpenSky radio
+https://audio.opensky.radio:8082/flac?_res_tag_=audio
+#EXTINF:0, - Chiru
+https://chiru.no/highres.flac
+#EXTINF:0, - Tsuiokuyo’s FLAC Anime Music
+http://tsuiokuyo.ddns.net:8764/stream
+#EXTINF:0, - La SuperSonica
+http://c11.radioboss.fm:8093/stream
+#EXTINF:0, - Zappa Stream Radio
+https://streams.norbert.de/zappa.flac
+#EXTINF:0, - CN’O
+http://master.net-radio.fr/cno-dab
