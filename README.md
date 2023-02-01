@@ -49,4 +49,7 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 
 19 Jan 2023 - Added Juice 1038 (flac).
 
-25 Jan 2023 - Added X Radio (ogg)
+25 Jan 2023 - Added Radio X (ogg)
+
+01 Feb 2023 - Added OpenSky Radio, Chiru, Tsuiokuyo's FLAC Anime, La SuperSonica, Zappa Stream and CN'O (all flac)
+
