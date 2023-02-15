@@ -9,8 +9,8 @@ http://stream.radioparadise.com/flacm
 http://stream.radioparadise.com/rock-flacm
 #EXTINF:0, - NEW CLEAR RADIO
 http://live.ncradio.fm/320
-#EXTINF:0, - McIntosh Radio
-http://mobile.customchannels.net/mcintosh_tunein
+#EXTINF:0, - NME 1
+http://listen-nme.sharp-stream.com/nme1high.mp3
 #EXTINF:0, - Radio Caroline
 http://78.129.202.200:8030/;
 #EXTINF:0, - JB Radio2 [metadata]
@@ -27,13 +27,13 @@ http://198.204.228.202:8157/flac
 http://198.204.228.202:8539/flac
 #EXTINF:0, - Superstereo four
 http://198.204.228.202:8030/flac
-#EXTINF:0, - SuperStereo 5 - Natural Sound For Audiophiles
+#EXTINF:0, - Superstereo five
 http://198.204.228.202:8511/canal1
 #EXTINF:0, - Superstereo six
 http://198.204.228.202:8157/flac6
 #EXTINF:0, - Superstereo seven
 http://198.204.228.202:8030/flac7
-#EXTINF:0, - SuperStereo 8 - Natural Sound For Audiophiles
+#EXTINF:0, - Superstereo eight
 http://198.204.228.202:8643/SS8
 #EXTINF:0, - Linn Radio
 http://radio.linn.co.uk:8003/stream
@@ -41,10 +41,10 @@ http://radio.linn.co.uk:8003/stream
 http://mscp2.live-streams.nl:8100/flac.flac
 #EXTINF:0, - HILINE POP
 http://mediaserv30.live-streams.nl:8086/live
-#EXTINF:0, - HILINE GOLD
-http://mediaserv30.live-streams.nl:8000/live
 #EXTINF:0, - HILINE WORLD
 http://mediaserv38.live-streams.nl:8027/live
+#EXTINF:0, - HILINE GOLD
+http://mediaserv30.live-streams.nl:8000/live
 #EXTINF:0, - HILINE CLASSICAL
 http://82.94.166.107/proxy/hionlineclassic?mp=/
 #EXTINF:0, - HILINE LATIN
@@ -57,6 +57,8 @@ http://stream.sing-sing-bis.org:8000/singsingFlac
 http://server9.streamserver24.com:18900/motherearth
 #EXTINF:0, - TMEfolk
 http://radio.tmefm.com:17666/stream
+#EXTINF:0, - tmefm bluegrass
+http://91.121.184.63:17666/stream
 #EXTINF:0, - SOMA FOLK
 http://ice2.somafm.com/folkfwd-128-aac
 #EXTINF:0, - SOMA REGGAE
@@ -71,8 +73,6 @@ http://ice2.somafm.com/bootliquor-320-mp3
 http://ice4.somafm.com/lush-128-aac
 #EXTINF:0, - SOMA COVERS
 http://ice4.somafm.com/covers-128-aac
-#EXTINF:0, - BBC Radio Norfolk
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_norfolk.m3u8
 #EXTINF:0, - BBC Radio One
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_one.m3u8
 #EXTINF:0, - BBC Radio Two
@@ -87,6 +87,8 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/a
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_five_live_sports_extra.m3u8
 #EXTINF:0, - BBC 6music
 http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
+#EXTINF:0, - BBC Radio Norfolk
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/uk/sbr_high/ak/bbc_radio_norfolk.m3u8
 #EXTINF:0, - Radio Calico
 https://radio3.radio-calico.com:8443/calico
 #EXTINF:0, - MaXXima
@@ -129,7 +131,7 @@ http://192.99.35.215:5354/stream
 http://radio.wanderingsheep.net:8090/jazzcafe320
 #EXTINF:0, - Insanity Unprocessed
 http://stream.cor.insanityradio.com/insanity_unprocessed.flac
-#EXTINF:0, - Radioblues-Flac
+#EXTINF:0, - Blues radio
 https://streams.radiomast.io/radioblues-flac
 #EXTINF:0, - Chillout Plus
 https://chillout.zone/chillout_plus
@@ -197,6 +199,8 @@ http://94.130.242.5:8040/stream
 http://94.130.242.5:8010/stream
 #EXTINF:0, - PARTY VIBE RADIO : AMBIENT
 http://94.130.242.5:8056/stream
+#EXTINF:0, - PARTY VIBE RADIO : REGGAE
+http://94.130.242.5:8000/stream
 #EXTINF:0, - WCRB
 http://wgbh.streamguys.com:80/wcrb-omnia
 #EXTINF:0, - Viva-Hi
@@ -215,10 +219,6 @@ http://schlager.radiomonster.fm/320.mp3
 http://cp.ultimate-stream-hosting.de:8010/stream
 #EXTINF:0, - Riverside Radio
 https://stream.and-stuff.nl:8443/riverside
-#EXTINF:0, - PARTY VIBE RADIO : REGGAE
-http://94.130.242.5:8000/stream
-#EXTINF:0, - tmefm bluegrass
-http://91.121.184.63:17666/stream
 #EXTINF:0, - Folkalley-128mp3
 http://freshgrass.streamguys1.com/folkalley-128mp3
 #EXTINF:0, - Freshcuts-128mp3
@@ -229,8 +229,6 @@ http://freshgrass.streamguys1.com/ss1-128mp3
 http://freshgrass.streamguys1.com/folkalley-holiday-128mp3
 #EXTINF:0, - Ppm-Jazz24aac256-Ibc1
 https://live.wostreaming.net/direct/ppm-jazz24aac256-ibc1
-#EXTINF:0, - NME 1
-http://listen-nme.sharp-stream.com/nme1high.mp3
 #EXTINF:0, - Centre Force
 http://centreforce.streamgb.com:8830/320
 #EXTINF:0, - Nova FM
@@ -253,8 +251,6 @@ http://rnt.hpi.fr/Lovely
 http://radio.m-1.fm/m1plius/aacp320
 #EXTINF:0, - Mbs
 http://rnt.hpi.fr/mbs
-#EXTINF:0, - Radiodave
-http://radioradio.ddns.net:8000/radiodave
 #EXTINF:0, - 70 80s hq hits
 http://91.121.104.139:9280/
 #EXTINF:0, - Dance Wave Flac
@@ -301,8 +297,6 @@ http://stream1.themediasite.co.uk/8050/stream
 https://s9.voscast.com:8917/listen.mp3
 #EXTINF:0, - PureClassix
 http://mscp4.live-streams.nl:8140/flac.ogg
-#EXTINF:0, - Juice 1038
-http://stream.stormtx.co.uk:8009/juice-lossless
 #EXTINF:0, - Radio X
 https://mp3.radiox.ch/standard.ogg
 #EXTINF:0, - OpenSky radio
@@ -315,5 +309,23 @@ http://tsuiokuyo.ddns.net:8764/stream
 http://c11.radioboss.fm:8093/stream
 #EXTINF:0, - Zappa Stream Radio
 https://streams.norbert.de/zappa.flac
-#EXTINF:0, - CN’O
-http://master.net-radio.fr/cno-dab
+#EXTINF:0, - Pi Ano
+http://stream.p-node.org/piano
+#EXTINF:0, - Ambient Radio .org
+http://uk2.internet-radio.com:8171/stream
+#EXTINF:0, - LapFox Radio
+https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
+#EXTINF:0, - Openbroadcast
+http://stream.openbroadcast.org/openbroadcast.flac
+#EXTINF:0, - PureClassix Radio
+https://mscp4.live-streams.nl:8142/lounge.ogg
+#EXTINF:0, - Antena Zadar
+http://hifi.antenazadar.hr:8000/hifi
+#EXTINF:0, - Le Son Parisien
+http://stream.lesonparisien.com/live.flac
+#EXTINF:0, - Punkrockers Radio
+https://stream.punkrockers-radio.de:8443/prr.flac
+#EXTINF:0, - Absolutely Top
+http://cdn05.radio.cloud:8120/ATD-OMNIA-GAT
+#EXTINF:0, - Radio Club 80
+https://ecuamedios.net/8050/stream
