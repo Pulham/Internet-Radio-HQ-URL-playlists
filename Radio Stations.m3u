@@ -11,6 +11,8 @@ http://stream.radioparadise.com/rock-flacm
 http://live.ncradio.fm/320
 #EXTINF:0, - NME 1
 http://listen-nme.sharp-stream.com/nme1high.mp3
+#EXTINF:0, - NME 2
+http://listen-nme.sharp-stream.com/nme2high.mp3
 #EXTINF:0, - Radio Caroline
 http://78.129.202.200:8030/;
 #EXTINF:0, - JB Radio2 [metadata]
