@@ -55,4 +55,7 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 
 02 Feb 2023 - Added Pi Ano (flac), Lapfox (flac) and Ambient radio (mp3).
 
-15 Feb 2023 - Removed MacIntosh Radio - ceased transmitting
+15 Feb 2023 - Removed MacIntosh Radio, CN'O, Juice 1038 and Radio Dave - ceased transmitting
+
+15 Feb 2023 - Added LapFox Radio, OpenBroadcast, PureClassix, Antena Zadar, Le Son Parisien, PunkRockers Radio, Absolutely Top and Radio Club 80 (all flac).
+
