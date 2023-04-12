@@ -18,7 +18,6 @@ http://198.204.228.202:8030/flac
 http://198.204.228.202:8511/canal1
 http://198.204.228.202:8157/flac6
 http://198.204.228.202:8030/flac7
-http://198.204.228.202:8643/SS8
 http://78.129.202.200:8030/;
 http://radio.linn.co.uk:8003/stream
 http://mscp2.live-streams.nl:8100/flac.flac
@@ -31,7 +30,6 @@ http://mediaserv33.live-streams.nl:8036/stream
 http://stream.sing-sing-bis.org:8000/singsingFlac
 http://server9.streamserver24.com:18900/motherearth
 http://radio.tmefm.com:17666/stream
-http://91.121.184.63:17666/stream
 http://ice2.somafm.com/folkfwd-128-aac
 http://ice6.somafm.com/reggae-256-mp3
 http://ice4.somafm.com/seventies-320-mp3
@@ -78,8 +76,8 @@ https://chillout.zone/chillout_plus
 http://master.net-radio.fr:80/frequence3.flac
 http://ice1.ikoula.net-radio.fr:80/frequence3urban.flac
 http://rondo.iradio.fi:8000/klasupro.flac
-http://89.223.45.5:8000/progressive-flac
 http://89.223.45.5:8000/space-flac
+http://89.223.45.5:8000/progressive-flac
 http://89.223.45.5:8000/nota-flac
 http://89.223.45.5:8000/geny-flac
 http://89.223.45.5:8000/next-flac
@@ -165,3 +163,17 @@ https://ecuamedios.net/8050/stream
 https://stream06.dotpoint.nl:8050/kaal
 http://stream.440hz-radio.de:8080/440hz-main.mp3
 http://oscar.scenesat.com:8000/scenesatmax
+http://66.94.113.88:8000/retro_ultra_hq
+http://stream.sweetfm.fr:8000/flac-forever-bdx
+https://streaming.lamer.live/laradiodelamer-uhd.flac
+http://mscp4.live-streams.nl:8220/autodj.ogg
+http://stream3.themediasite.co.uk:8134/stream
+http://listen-nation.sharp-stream.com/nation60sdab.mp3?ref=RF Title1=nation60sdab.mp3
+http://listen-nation.sharp-stream.com/nationradio70s-dab.mp3?ref=RF Title1=nationradio70s-dab.mp3
+http://listen-nation.sharp-stream.com/nationradio80s-dab.mp3?ref=RF Title1=nationradio80s-dab.mp3
+http://listen-nation.sharp-stream.com/nationradio90s-dab.mp3?ref=RF Title1=nationradio90s-dab.mp3
+http://listen-nation.sharp-stream.com/nationradio00sdab.mp3?ref=RF Title1=nationradio00sdab.mp3
+http://listen-nation.sharp-stream.com/nationhitsdab.mp3?ref=RF Title1=nationhitsdab.mp3
+http://listen-nation.sharp-stream.com/lovenationdab.mp3?ref=RF Title1=lovenationdab.mp3
+http://s2.radio.co:80/sf25229e16/listen
+http://s32.myradiostream.com:18756/
