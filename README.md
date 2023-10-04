@@ -106,3 +106,5 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 04 Oct 2023 - Added Soma FM Groove Salad 320k AAC Stereo (hls)
 
 04 Oct 2023 - Added Soma FM Groove Salad 320k AAC Surround (hls)
+
+04 Oct 2023 - Added an HTML version of the list (which is messy but has a little more info)
