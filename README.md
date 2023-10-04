@@ -75,7 +75,7 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 
 12 Apr 2023 - Added GenX Suffolk and Park Radio Diss (aac)
 
-04 Oct 2023 - Added Soma FM Lossless Groove Salad (hls)
+04 Oct 2023 - Added Soma FM Groove Salad Lossless Flac (hls)
 
 04 Oct 2023 - Added Park Radio Diss (local) (aac)
 
@@ -100,3 +100,9 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 04 Oct 2023 - Added La Urban (flac)
 
 04 Oct 2023 - Added Radio Summer (flac)
+
+04 Oct 2023 - Added Soma FM Groove Salad Lossless Flac Unprocessed (hls)
+
+04 Oct 2023 - Added Soma FM Groove Salad 320k AAC Stereo (hls)
+
+04 Oct 2023 - Added Soma FM Groove Salad 320k AAC Surround (hls)
