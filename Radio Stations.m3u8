@@ -32,6 +32,9 @@ http://server9.streamserver24.com:18900/motherearth
 http://radio.tmefm.com:17666/stream
 http://ice2.somafm.com/folkfwd-128-aac
 https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
+https://hls.somafm.com/hls/gs-unprocessed/FLAC/program.m3u8
+https://hls.somafm.com/hls/groovesalad/320k/program.m3u8
+https://hls.somafm.com/hls/gs-surround/program.m3u8
 http://ice6.somafm.com/reggae-256-mp3
 http://ice4.somafm.com/seventies-320-mp3
 http://ice6.somafm.com/u80s-256-mp3
@@ -187,5 +190,4 @@ http://radio.streaminghires.cl:8034/stream/flac
 http://ecuamedios.net:8022/radiohits/Lossless
 http://stream.radio90.fm:2000/stream
 http://st1.urbanrevolution.es:8000/zonaelectronica
-https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
 http://flacradio.ru:1110/stream
