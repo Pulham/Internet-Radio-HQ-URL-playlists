@@ -74,3 +74,29 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 12 Apr 2023 - Added Nation 60s, 70s 80s 90s 00s, Hits, Love. (mp3)
 
 12 Apr 2023 - Added GenX Suffolk and Park Radio Diss (aac)
+
+04 Oct 2023 - Added Soma FM Lossless Groove Salad (hls)
+
+04 Oct 2023 - Added Park Radio Diss (local) (aac)
+
+04 Oct 2023 - Added PirateKanon FM (flac)
+
+04 Oct 2023 - Added Max Radio Society (hls)
+
+04 Oct 2023 - Added BesideFM (flac)
+
+04 Oct 2023 - Added CalamaRadio (flac)
+
+04 Oct 2023 - Added C9 Radio (flac)
+
+04 Oct 2023 - Added K Free (hls)
+
+04 Oct 2023 - Added Radio Club 80 Retro (flac)
+
+04 Oct 2023 - Added Radio Hits (flac)
+
+04 Oct 2023 - Added Radio 90fm (flac)
+
+04 Oct 2023 - Added La Urban (flac)
+
+04 Oct 2023 - Added Radio Summer (flac)
