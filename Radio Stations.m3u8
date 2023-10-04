@@ -5,7 +5,7 @@ http://stream.radioparadise.com/rock-flacm
 http://live.ncradio.fm/320
 http://listen-nme.sharp-stream.com/nme1high.mp3
 http://listen-nme.sharp-stream.com/nme2high.mp3
-https://s9.voscast.com:8917/listen.mp3
+https://a1.asurahosting.com:10990/radio.mp3
 http://stream1.themediasite.co.uk/8050/stream
 https://maggie.torontocast.com:8076/flac
 http://176.57.184.130:8889/flac
@@ -31,6 +31,7 @@ http://stream.sing-sing-bis.org:8000/singsingFlac
 http://server9.streamserver24.com:18900/motherearth
 http://radio.tmefm.com:17666/stream
 http://ice2.somafm.com/folkfwd-128-aac
+https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
 http://ice6.somafm.com/reggae-256-mp3
 http://ice4.somafm.com/seventies-320-mp3
 http://ice6.somafm.com/u80s-256-mp3
@@ -165,7 +166,6 @@ http://stream.440hz-radio.de:8080/440hz-main.mp3
 http://oscar.scenesat.com:8000/scenesatmax
 http://66.94.113.88:8000/retro_ultra_hq
 http://stream.sweetfm.fr:8000/flac-forever-bdx
-https://streaming.lamer.live/laradiodelamer-uhd.flac
 http://mscp4.live-streams.nl:8220/autodj.ogg
 http://stream3.themediasite.co.uk:8134/stream
 http://listen-nation.sharp-stream.com/nation60sdab.mp3?ref=RF Title1=nation60sdab.mp3
@@ -177,3 +177,15 @@ http://listen-nation.sharp-stream.com/nationhitsdab.mp3?ref=RF Title1=nationhits
 http://listen-nation.sharp-stream.com/lovenationdab.mp3?ref=RF Title1=lovenationdab.mp3
 http://s2.radio.co:80/sf25229e16/listen
 http://s32.myradiostream.com:18756/
+http://radio.stream-online.eu:10900/flac
+https://www.maxradio.ca/UHD/MaxRadio/FLAC/Max.m3u8
+http://5.128.138.8:8000/stream
+http://www.calamarrradio.org:8000/stream
+http://s3n0.khot.gdn:80/c9radio-flac.ogg
+https://kfre.s3.amazonaws.com/truehd/FLAC/program.m3u8
+http://radio.streaminghires.cl:8034/stream/flac
+http://ecuamedios.net:8022/radiohits/Lossless
+http://stream.radio90.fm:2000/stream
+http://st1.urbanrevolution.es:8000/zonaelectronica
+https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
+http://flacradio.ru:1110/stream
