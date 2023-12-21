@@ -108,3 +108,14 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 04 Oct 2023 - Added Soma FM Groove Salad 320k AAC Surround (hls)
 
 04 Oct 2023 - Added an HTML version of the list (which is messy but has a little more info)
+
+21 Dec 2023 - Updates a bit infrequent at the mo' - Busy!
+
+21 Dec 2023 - Updated Superstereo 1,2,3,4,5,6,7 streams 
+
+21 Dec 2023 - Added Radio Calico (flac)
+
+21 Dec 2023 - Added Radio Sputnik (flac)
+
+21 Dec 2023 - Added Frequence 3 (flac)
+
