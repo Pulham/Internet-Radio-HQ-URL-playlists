@@ -119,3 +119,8 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 
 21 Dec 2023 - Added Frequence 3 (flac)
 
+04 Jan 2024 - Updated various BBC stations (hls)
+
+04 Jan 2024 - Added Sector 00's and Jazz (flac)
+
+04 Jan 2024 - Added Curtis Audiophile Café (flac)
