@@ -124,3 +124,35 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 04 Jan 2024 - Added Sector 00's and Jazz (flac)
 
 04 Jan 2024 - Added Curtis Audiophile Café (flac)
+
+17 Apr 2024 - Fixed Timewarp Ireland URL
+
+17 Apr 2024 - Added Radio Ulyot (flac)
+
+17 Apr 2024 - Added Flashback 80 Radio (flac)
+
+17 Apr 2024 - Added Flow Radio (flac)
+
+17 Apr 2024 - Added The Music Machine 1 (mp3)
+
+17 Apr 2024 - Added The Music Machine 2 (mp3)
+
+17 Apr 2024 - Added Le Bon Mix (flac), Mix cinema (mp3), Mix Soft, Dynamic, Canal Remix, La Poste Parisien (all aac)
+
+17 Apr 2024 - Added MybobbaFM (flac)
+
+17 Apr 2024 - Added Radio evening in the galaxy (flac)
+
+17 Apr 2024 - Added Sveriges Radio (flac)
+
+17 Apr 2024 - Added Haarlem Shuffle Radio (flac)
+
+17 Apr 2024 - Added Brillux Radio (flac)
+
+17 Apr 2024 - Added Radio Jeunes Reims (flac)
+
+17 Apr 2024 - Added PowerXS (flac)
+
+17 Apr 2024 - Added PirateKanon FM (flac)
+
+17 Apr 2024 - Added Radio Aristona (flac)
