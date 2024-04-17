@@ -16,7 +16,7 @@ http://listen-nme.sharp-stream.com/nme2high.mp3
 #EXTINF:0, - San Francisco 70s
 https://a1.asurahosting.com:10990/radio.mp3
 #EXTINF:0, - timewarp ireland
-http://stream1.themediasite.co.uk/8050/stream
+http://141.94.205.245:8052/stream
 #EXTINF:0, - JB Radio2 [metadata]
 https://maggie.torontocast.com:8076/flac
 #EXTINF:0, - JB Radio2
@@ -109,6 +109,10 @@ http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_radio_five_live_sports_
 http://as-hls-uk-live.akamaized.net/pool_904/live/uk/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 #EXTINF:0, - BBC Radio Norfolk
 http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_norfolk/bbc_radio_norfolk.isml/bbc_radio_norfolk-audio%3d320000.norewind.m3u8
+#EXTINF:0, - Park Radio Diss
+http://s32.myradiostream.com:18756/
+#EXTINF:0, - 60North Radio
+http://r5.zetcast.net/flac
 #EXTINF:0, - Radio Calico
 https://radio3.radio-calico.com:8443/calico
 #EXTINF:0, - MaXXima
@@ -303,14 +307,12 @@ http://stream.danubiusradio.hu:8091/danubius_HiFi
 http://s2.audiostream.hu:8090/juventus_FLAC
 #EXTINF:0, - Radio Audiomastering
 http://radio.audiomastering.lt:8000/pure
-#EXTINF:0, - 60North Radio
-http://r5.zetcast.net/flac
+#EXTINF:0, - PureClassix
+http://mscp4.live-streams.nl:8140/flac.ogg
 #EXTINF:0, - Soul City FM
 http://euk-85965.eukservers.com:8000/soul
 #EXTINF:0, - Sputnik techno radio
 http://radiosputnik.nl:8002/flac
-#EXTINF:0, - PureClassix
-http://mscp4.live-streams.nl:8140/flac.ogg
 #EXTINF:0, - Radio X
 https://mp3.radiox.ch/standard.ogg
 #EXTINF:0, - OpenSky radio
@@ -371,8 +373,6 @@ http://listen-nation.sharp-stream.com/nationhitsdab.mp3?ref=RF Title1=nationhits
 http://listen-nation.sharp-stream.com/lovenationdab.mp3?ref=RF Title1=lovenationdab.mp3
 #EXTINF:0, - GenX Radio Suffolk
 http://s2.radio.co:80/sf25229e16/listen
-#EXTINF:0, - Park Radio Diss
-http://s32.myradiostream.com:18756/
 #EXTINF:0, - PirateKanon.FM
 http://radio.stream-online.eu:10900/flac
 #EXTINF:0, - Max Radio Society
@@ -407,3 +407,43 @@ https://radiosputnik.nl:8443/flac
 https://frequence3.net-radio.fr/frequence3.flac
 #EXTINF:0, - Curtis Audiophile Café
 http://curtisradio.ddns.net:8000/CurtisPhonoFlac
+#EXTINF:0, - RadioI Ulyot
+http://ulyot.sytes.net:8112/
+#EXTINF:0, - Flashback 80 Radio
+https://c23.radioboss.fm:8129/stream
+#EXTINF:0, - Flow Radio
+http://choped.laurban.eu:8000/flowplataformas
+#EXTINF:0, - The Music Machine 1
+https://msmn3.co/proxy/x1mp31/stream
+#EXTINF:0, - The Music Machine 2
+https://msmn3.co/proxy/x2mp31/stream
+#EXTINF:0, - Le bon Mix Flac
+https://onair18.xdevel.com/proxy/lebonflac?mp=/stream
+#EXTINF:0, - Le Bon Mix Cinema
+https://stream9.xdevel.com/audio10s976748-1740/stream/icecast.audio
+#EXTINF:0, - Le Bon Mix Soft
+https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio
+#EXTINF:0, - Le Bon Mix Dynamic
+https://stream10.xdevel.com/audio15s976748-2112/stream/icecast.audio
+#EXTINF:0, - Le Bon Canal Remix 80s & 90s
+https://stream10.xdevel.com/audio14s976748-1800/stream/icecast.audio
+#EXTINF:0, - Le Bon Le Poste Parisien
+https://stream10.xdevel.com/audio12s976748-1798/stream/icecast.audio
+#EXTINF:0, - MybobbaFM
+https://radio.edith.gg/listen/mybobbafm/radio_flac.flac
+#EXTINF:0, - Radio evening in the Galaxy
+http://c01.lexycast.de:1650/stream
+#EXTINF:0, - Sveriges Radio
+https://live1.sr.se/p2-flac
+#EXTINF:0, - Haarlem Shuffle Radio
+https://stream.tbmp.nl:8000/haarlemshuffle.flac
+#EXTINF:0, - Brillux Radio
+http://bx01.junkes.it/flac
+#EXTINF:0, - Radio Jeunes Reims
+http://stream.rjrradio.fr:8000/rjr-dab.flac
+#EXTINF:0, - PowerXS
+http://vriezenet.nl:11051/hrflac
+#EXTINF:0, - PirateKanon.FM
+https://radio.piratenkanon.fm:10900/flac
+#EXTINF:0, - Radio Aristona
+http://radioaristona.homedns.org/listen/radio_aristona/radio.flac
