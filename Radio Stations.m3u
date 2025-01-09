@@ -18,17 +18,23 @@ https://a1.asurahosting.com:10990/radio.mp3
 #EXTINF:0, - timewarp ireland
 http://141.94.205.245:8052/stream
 #EXTINF:0, - JB Radio2
-https://maggie.torontocast.com:8076/flac
+http://161.97.135.80:8889/flac
 #EXTINF:0, - Naim Radio Flac
 http://mscp3.live-streams.nl:8360/flac.flac
 #EXTINF:0, - Superstereo 1
 http://icecast.centaury.cl:7570/SuperStereoHiRes1
-#EXTINF:0, - Suoerstereo 2
+#EXTINF:0, - SuperStereo 1+ 
+http://icecast.centaury.cl:7570/SuperStereoHiRes1Plus
+#EXTINF:0, - Superstereo 2
 http://icecast.centaury.cl:7570/SuperStereoHiRes2
 #EXTINF:0, - Superstereo 3
 http://icecast.centaury.cl:7570/SuperStereoHiRes3
+#EXTINF:0, - SuperStereo 3+
+http://icecast.centaury.cl:7570/SuperStereoHiRes3Plus
 #EXTINF:0, - Superstereo 4
 http://icecast.centaury.cl:7570/SuperStereoHiRes4
+#EXTINF:0, - SuperStereo 4+
+http://icecast.centaury.cl:7570/SuperStereoHiRes4Plus
 #EXTINF:0, - SuperStereo 5
 http://icecast.centaury.cl:7570/SuperStereoHiRes5
 #EXTINF:0, - SuperStereo 6
@@ -118,7 +124,7 @@ http://diffusion.lafrap.fr:8000/sun.flac
 #EXTINF:0, - H2O RADIO FLAC
 http://master.net-radio.fr:80/h2oradio.flac
 #EXTINF:0, - THE CHEESE FLAC
-http://thecheese.ddns.net:8004/stream
+https://station.thecheese.co.nz/listen/the_cheese/flac
 #EXTINF:0, - 95B FM FLAC
 https://streams.95bfm.com/stream112
 #EXTINF:0, - Magic Radio Flac
@@ -395,3 +401,39 @@ http://bx01.junkes.it/flac
 http://stream.rjrradio.fr:8000/rjr-dab.flac
 #EXTINF:0, - Radio Aristona
 http://radioaristona.homedns.org/listen/radio_aristona/radio.flac
+#EXTINF:0, - EireWave
+https://audio-edge-5bkfj.fra.h.radiomast.io/157d47f4-e348-4892-bcf6-5bc417683055
+#EXTINF:0, - Soma The In-Sound
+http://ice4.somafm.com/insound-256-mp3
+#EXTINF:0,SomaFM - Soma Bossa Beyond
+http://ice2.somafm.com/bossa-256-mp3
+#EXTINF:0,SomaFM - Soma Tiki Time
+http://ice6.somafm.com/tikitime-256-mp3
+#EXTINF:0,SomaFM - Soma DEF CON Radio
+http://ice2.somafm.com/defcon-256-mp3
+#EXTINF:0,SomaFM - Soma Synphaera Radio
+http://ice6.somafm.com/synphaera-256-mp3
+#EXTINF:0,SomaFM - Soma Drone Zone
+http://ice2.somafm.com/dronezone-256-mp3
+#EXTINF:0,SomaFM - SomaThe Dark Zone
+http://ice2.somafm.com/darkzone-256-mp3
+#EXTINF:0,SomaFM - Soma Sonic Universe
+http://ice6.somafm.com/sonicuniverse-256-mp3
+#EXTINF:0, - Aida radio
+https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
+#EXTINF:0, - DJam
+https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
+#EXTINF:0, - ISEKOI Radio
+https://isekoi-radio.com/listen/isekoi/radio.flac
+#EXTINF:0, - ISEKOI Radio Ambient
+https://isekoi-radio.com/listen/ambient/ambientradio.flac
+#EXTINF:0, - HiFi Dream Radio
+https://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq
+#EXTINF:0, - Special Sound Radio
+http://c01.lexycast.de:3420/stream
+#EXTINF:0, - BeeRadio Classics
+http://stream.beeradio.nl/classics
+#EXTINF:0, - Radio Paradise Serenity
+http://stream.radioparadise.com/serenity
+#EXTINF:0, - Radio Paradise 2050
+http://stream.radioparadise.com/radio2050-flacm
