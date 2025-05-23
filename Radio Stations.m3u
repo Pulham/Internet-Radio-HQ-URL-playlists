@@ -3,10 +3,16 @@
 http://stream.radioparadise.com/mellow-flacm
 #EXTINF:0, - RP MAIN
 http://stream.radioparadise.com/flacm
+#EXTINF:0, - RP GLOBAL
+http://stream.radioparadise.com/global-flacm
 #EXTINF:0, - RP ECLECTIC
 http://stream.radioparadise.com/world-etc-flacm
 #EXTINF:0, - RP ROCK
 http://stream.radioparadise.com/rock-flacm
+#EXTINF:0, - Radio Paradise 2050
+http://stream.radioparadise.com/radio2050-flacm
+#EXTINF:0, - Radio Paradise Serenity
+http://stream.radioparadise.com/serenity
 #EXTINF:0, - NEW CLEAR RADIO
 http://live.ncradio.fm/320
 #EXTINF:0, - NME 1
@@ -17,13 +23,15 @@ http://listen-nme.sharp-stream.com/nme2high.mp3
 http://141.94.205.245:8052/stream
 #EXTINF:0, - San Francisco 70s
 https://a1.asurahosting.com:10990/radio.mp3
+#EXTINF:0, - Greatest Hits Radio
+http://edge-bauerall-01-gos2.sharp-stream.com/net2norfolk.mp3?aw_0_1st.skey=1744198215
 #EXTINF:0, - JB Radio 2
 http://161.97.135.80:8001/flac
 #EXTINF:0, - Naim Radio Flac
 http://mscp3.live-streams.nl:8360/flac.flac
 #EXTINF:0, - Superstereo 1
 http://icecast.centaury.cl:7570/SuperStereoHiRes1
-#EXTINF:0, - SuperStereo 1+ 
+#EXTINF:0, - SuperStereo 1+
 http://icecast.centaury.cl:7570/SuperStereoHiRes1Plus
 #EXTINF:0, - Superstereo 2
 http://icecast.centaury.cl:7570/SuperStereoHiRes2
@@ -109,8 +117,8 @@ http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_r
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8
 #EXTINF:0, - BBC Radio Five Live Sports Extra
 http://lstn.lv/bbcradio.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000&uk=1
-#EXTINF:0, - BBC 6music
-http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8/bbc_6music-audio%3d320000.norewind.m3u8
+#EXTINF:0, - BBC 6music-Audio%3d320000 Norewind
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
 #EXTINF:0, - Bbcradio norfolk
 https://lstn.lv/bbcradio.m3u8?station=bbc_radio_norfolk%22&bitrate=320000%22
 #EXTINF:0, - 60North Radio
@@ -433,10 +441,6 @@ https://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq
 http://c01.lexycast.de:3420/stream
 #EXTINF:0, - BeeRadio Classics
 http://stream.beeradio.nl/classics
-#EXTINF:0, - Radio Paradise Serenity
-http://stream.radioparadise.com/serenity
-#EXTINF:0, - Radio Paradise 2050
-http://stream.radioparadise.com/radio2050-flacm
 #EXTINF:0, - TNM Radio
 http://stream.tnm-radio.eu/ultra
 #EXTINF:0, - Big Bang Radio
