@@ -353,3 +353,6 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 09 Jan 2025 - Quick update of some stations (mainly the SuperStereo network ones). Haven't had time to check anything else.
 
 09 Apr 2025 - Updated BBC streams
+
+23 May 2025 - Radio Paradise updates
+
