@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:0, - RP MELLOW
 http://stream.radioparadise.com/mellow-flacm
-#EXTINF:0, - RP MAIN
-http://stream.radioparadise.com/flacm
 #EXTINF:0, - RP GLOBAL
 http://stream.radioparadise.com/global-flacm
 #EXTINF:0, - RP ROCK
 http://stream.radioparadise.com/rock-flacm
+#EXTINF:0, - RP MAIN
+http://stream.radioparadise.com/flacm
 #EXTINF:0, - Radio Paradise 2050
 http://stream.radioparadise.com/radio2050-flacm
 #EXTINF:0, - Radio Paradise Serenity
@@ -19,34 +19,10 @@ http://listen-nme.sharp-stream.com/nme1high.mp3
 http://listen-nme.sharp-stream.com/nme2high.mp3
 #EXTINF:0, - timewarp ireland
 http://141.94.205.245:8052/stream
-#EXTINF:0, - San Francisco 70s
-https://a1.asurahosting.com:10990/radio.mp3
-#EXTINF:0, - Greatest Hits Radio
-http://edge-bauerall-01-gos2.sharp-stream.com/net2norfolk.mp3?aw_0_1st.skey=1744198215
 #EXTINF:0, - JB Radio 2
 http://161.97.135.80:8001/flac
 #EXTINF:0, - Naim Radio Flac
 http://mscp3.live-streams.nl:8360/flac.flac
-#EXTINF:0, - Superstereo 1
-http://icecast.centaury.cl:7570/SuperStereoHiRes1
-#EXTINF:0, - SuperStereo 1+
-http://icecast.centaury.cl:7570/SuperStereoHiRes1Plus
-#EXTINF:0, - Superstereo 2
-http://icecast.centaury.cl:7570/SuperStereoHiRes2
-#EXTINF:0, - Superstereo 3
-http://icecast.centaury.cl:7570/SuperStereoHiRes3
-#EXTINF:0, - SuperStereo 3+
-http://icecast.centaury.cl:7570/SuperStereoHiRes3Plus
-#EXTINF:0, - Superstereo 4
-http://icecast.centaury.cl:7570/SuperStereoHiRes4
-#EXTINF:0, - SuperStereo 4+
-http://icecast.centaury.cl:7570/SuperStereoHiRes4Plus
-#EXTINF:0, - SuperStereo 5
-http://icecast.centaury.cl:7570/SuperStereoHiRes5
-#EXTINF:0, - SuperStereo 6
-http://icecast.centaury.cl:7570/SuperStereoHiRes6
-#EXTINF:0, - SuperStereo 7
-http://icecast.centaury.cl:7560/SuperStereoNoData7
 #EXTINF:0, - Radio Caroline
 http://78.129.202.200:8030/;
 #EXTINF:0, - Linn Radio
@@ -67,12 +43,10 @@ http://mediaserv33.live-streams.nl:8034/stream
 http://mediaserv33.live-streams.nl:8036/stream
 #EXTINF:0, - RADIO SINGSING
 http://stream.sing-sing-bis.org:8000/singsingFlac
-#EXTINF:0, - Motherearth
-http://server9.streamserver24.com:18900/motherearth
+#EXTINF:0, - Motherearth Flac-Lo
+https://motherearth.streamserver24.com/listen/motherearth/motherearth.flac-lo
 #EXTINF:0, - Motherearth 192
 https://motherearth.streamserver24.com/listen/motherearth/motherearth
-#EXTINF:0, - TMEfolk
-http://radio.tmefm.com:17666/stream
 #EXTINF:0, - SOMA FOLK
 http://ice2.somafm.com/folkfwd-128-aac
 #EXTINF:0, - Soma Groove Salad Flac HLS
@@ -92,7 +66,7 @@ http://ice6.somafm.com/u80s-256-mp3
 #EXTINF:0, - SOMA COUNTRY
 http://ice2.somafm.com/bootliquor-320-mp3
 #EXTINF:0, - SOMA LUSH
-http://ice4.somafm.com/lush-128-aac
+http://ice5.somafm.com/lush-128-aac
 #EXTINF:0, - SOMA COVERS
 http://ice4.somafm.com/covers-128-aac
 #EXTINF:0, - SOMA INDIE
@@ -113,12 +87,12 @@ http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_ra
 http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
 #EXTINF:0, - BBC Radio Five Live
 http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8
-#EXTINF:0, - BBC Radio Five Live Sports Extra
-http://lstn.lv/bbcradio.m3u8?station=bbc_radio_five_live_sports_extra&bitrate=320000&uk=1
+#EXTINF:0, - BBC Radio Five Live Sports Extra-Audio%3d96000 Norewind
+http://as-hls-uk-live.akamaized.net/pool_47700285/live/uk/bbc_radio_five_live_sports_extra/bbc_radio_five_live_sports_extra.isml/bbc_radio_five_live_sports_extra-audio%3d96000.norewind.m3u8
 #EXTINF:0, - BBC 6music-Audio%3d320000 Norewind
 http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
-#EXTINF:0, - Bbcradio norfolk
-https://lstn.lv/bbcradio.m3u8?station=bbc_radio_norfolk%22&bitrate=320000%22
+#EXTINF:0, - BBC Radio Norfolk-Audio%3d96000 Norewind
+http://as-hls-ww-live.akamaized.net/pool_61510571/live/ww/bbc_radio_norfolk/bbc_radio_norfolk.isml/bbc_radio_norfolk-audio%3d96000.norewind.m3u8
 #EXTINF:0, - 60North Radio
 http://r5.zetcast.net/flac
 #EXTINF:0, - Radio Calico
@@ -139,10 +113,6 @@ http://flac.magic-radio.net/flac
 http://mediaserv38.live-streams.nl:8006/stream
 #EXTINF:0, - Linn Jazz
 http://radio.linn.co.uk:8000/stream
-#EXTINF:0, - BluesMen Channel (Hits)
-http://173.249.21.17:8108/stream
-#EXTINF:0, - BluesMen Channel (Gold)
-http://173.249.21.17:8114/stream
 #EXTINF:0, - LBC
 http://icecast.thisisdax.com/LBCUK
 #EXTINF:0, - Talksport
@@ -155,16 +125,12 @@ http://radio.linn.co.uk:8004/stream
 http://mscp3.live-streams.nl:8250/class-flac.flac
 #EXTINF:0, - Majestic Jukebox
 http://uk3.internet-radio.com:8405/live
-#EXTINF:0, - Jazzcafe320
-http://radio.wanderingsheep.net:8090/jazzcafe320
 #EXTINF:0, - Insanity
 https://stream.cor.insanityradio.com/insanity.flac
 #EXTINF:0, - Frequence3
 http://master.net-radio.fr:80/frequence3.flac
 #EXTINF:0, - Frequence3urban
 http://ice1.ikoula.net-radio.fr:80/frequence3urban.flac
-#EXTINF:0, - Klasupro
-http://rondo.iradio.fi:8000/klasupro.flac
 #EXTINF:0, - Sector Space
 http://89.223.45.5:8000/space-flac
 #EXTINF:0, - Sector Progressive
@@ -187,12 +153,10 @@ http://secure.live-streams.nl:80/flac.flac
 http://amp.cesnet.cz:8000/cro3.flac
 #EXTINF:0, - Ceský D-dur
 http://amp.cesnet.cz:8000/cro-d-dur.flac
-#EXTINF:0, - Ceský Jazz
-http://amp.cesnet.cz:8000/cro-jazz.flac
 #EXTINF:0, - Ceský Wave
 http://amp.cesnet.cz:8000/cro-radio-wave.flac
-#EXTINF:-131, - Radio CLUB 80
-http://ecuamedios.net:8050/live.ogg
+#EXTINF:0, - Ceský Jazz
+http://amp.cesnet.cz:8000/cro-jazz.flac
 #EXTINF:-131, - Radiozurnal
 http://amp.cesnet.cz:8000/cro1-256.ogg
 #EXTINF:0, - HILINE France Radio
@@ -201,8 +165,6 @@ http://mediaserv21.live-streams.nl:8000/stream
 http://media.radiojackie.com:5873/;
 #EXTINF:0, - KRUI
 http://krui.student-services.uiowa.edu:8000/listen
-#EXTINF:0, - WGUC
-http://cpr.streamguys1.com:80/noads-wguc
 #EXTINF:0, - OrganLive
 https://play.organlive.com:7010/320
 #EXTINF:0, - Deepvibes Radio
@@ -211,10 +173,10 @@ http://88.208.218.19:9106/stream
 http://94.130.242.5:8024/stream
 #EXTINF:0, - PARTY VIBE RADIO :  ALTERNATIVE ROCK
 http://94.130.242.5:8032/stream
-#EXTINF:0, - PARTY VIBE RADIO :  JAZZ
-http://94.130.242.5:8020/stream
 #EXTINF:0, - PARTY VIBE RADIO : DRUM & BASS
 http://94.130.242.5:8004/stream
+#EXTINF:0, - PARTY VIBE RADIO :  JAZZ
+http://94.130.242.5:8020/stream
 #EXTINF:0, - PARTY VIBE RADIO : RAP
 http://94.130.242.5:8016/stream
 #EXTINF:0, - PARTY VIBE RADIO : TECHNO
@@ -229,8 +191,6 @@ http://94.130.242.5:8056/stream
 http://94.130.242.5:8000/stream
 #EXTINF:0, - WCRB
 http://wgbh.streamguys.com:80/wcrb-omnia
-#EXTINF:0, - Viva-Hi
-http://rondo.iradio.fi:8000/viva-hi.mp3
 #EXTINF:0, - Radio Monique 963 Gold / Radio Caroline 319 Gold . The Perfect Mix from Breskens  -  Holland  s1
 https://happy.radiocaroline319.nl/listen/caroline_oldies/radio320.mp3
 #EXTINF:0, - Tophits
@@ -249,12 +209,8 @@ http://freshgrass.streamguys1.com/folkalley-128mp3
 http://freshgrass.streamguys1.com/freshcuts-128mp3
 #EXTINF:0, - Classic Folk
 http://freshgrass.streamguys1.com/ss1-128mp3
-#EXTINF:0, - Folkalley-Holiday-128mp3
-http://freshgrass.streamguys1.com/folkalley-holiday-128mp3
 #EXTINF:0, - Centre Force
 http://centreforce.streamgb.com:8830/320
-#EXTINF:0, - Nova FM
-http://21413.live.streamtheworld.com/NOVA_969_AAC320.aac
 #EXTINF:0, - EasyRadio
 http://live.easyradio.bg/flac
 #EXTINF:0, - Grollooradio
@@ -281,14 +237,6 @@ http://retro.dancewave.online/retrodance.flac.ogg
 http://mscp3.live-streams.nl:8340/jazz-flac.flac
 #EXTINF:0, - Joyhits Flac
 http://joyhits.online/joyhits.flac.ogg
-#EXTINF:0, - Motherearth Klassik
-http://server9.streamserver24.com:18910/motherearth.klassik
-#EXTINF:0, - Motherearth 192 Klassic
-http://motherearth.streamserver24.com:18910/motherearth.klassik
-#EXTINF:0, - Motherearth Instrumental
-http://server9.streamserver24.com:18920/motherearth.instrumental
-#EXTINF:0, - Motherearth 192 instrumental
-http://motherearth.streamserver24.com:18920/motherearth.instrumental
 #EXTINF:0, - Motherearth 192 Jazz
 https://motherearth.streamserver24.com/listen/motherearth_jazz/motherearth.jazz
 #EXTINF:0, - BDPST ROCK Radio
@@ -297,8 +245,6 @@ http://s2.audiostream.hu:8091/bdpstrock_FLAC
 http://stream.danubiusradio.hu:8091/danubius_HiFi
 #EXTINF:0, - Radio Juventus
 http://s2.audiostream.hu:8090/juventus_FLAC
-#EXTINF:0, - Radio Audiomastering
-http://radio.audiomastering.lt:8000/pure
 #EXTINF:0, - PureClassix
 http://mscp4.live-streams.nl:8140/flac.ogg
 #EXTINF:0, - Sputnik techno radio
@@ -307,8 +253,6 @@ http://radiosputnik.nl:8002/flac
 https://mp3.radiox.ch/standard.ogg
 #EXTINF:0, - OpenSky radio
 https://audio.opensky.radio:8082/flac?_res_tag_=audio
-#EXTINF:0, - Chiru
-https://chiru.no/highres.flac
 #EXTINF:0, - La SuperSonica
 http://c11.radioboss.fm:8093/stream
 #EXTINF:0, - Zappa Stream Radio
@@ -321,8 +265,6 @@ http://uk2.internet-radio.com:8171/stream
 https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
 #EXTINF:0, - PureClassix Radio
 https://mscp4.live-streams.nl:8142/lounge.ogg
-#EXTINF:0, - Antena Zadar
-http://hifi.antenazadar.hr:8000/hifi
 #EXTINF:0, - Le Son Parisien
 http://stream.lesonparisien.com/live.flac
 #EXTINF:0, - Punkrockers Radio
@@ -353,62 +295,32 @@ http://listen-nation.sharp-stream.com/nationhitsdab.mp3?ref=RF Title1=nationhits
 http://listen-nation.sharp-stream.com/lovenationdab.mp3?ref=RF Title1=lovenationdab.mp3
 #EXTINF:0, - GenX Radio Suffolk
 http://s2.radio.co:80/sf25229e16/listen
-#EXTINF:0, - PirateKanon.FM
-https://radio.piratenkanon.fm:10900/flac
-#EXTINF:0, - Max Radio Society
-https://www.maxradio.ca/UHD/MaxRadio/FLAC/Max.m3u8
-#EXTINF:0, - BesideFM
-http://5.128.138.8:8000/stream
-#EXTINF:0, - C9 radio
-http://s3n0.khot.gdn:80/c9radio-flac.ogg
 #EXTINF:0, - K Free
 https://kfre.s3.amazonaws.com/truehd/FLAC/program.m3u8
 #EXTINF:0, - Radio 90fm
 http://stream.radio90.fm:2000/stream
-#EXTINF:0, - La URBAN
-http://st1.urbanrevolution.es:8000/zonaelectronica
 #EXTINF:0, - Radio Summer
 http://flacradio.ru:1110/stream
-#EXTINF:0, - Rondo Classic
-http://rondo.iradio.fi:8000/klasu.flac
 #EXTINF:0, - Radio Calico
 http://radio3.radio-calico.com:8080/calico
 #EXTINF:0, - Radio Sputnik
 https://radiosputnik.nl:8443/flac
 #EXTINF:0, - Frequence3
 https://frequence3.net-radio.fr/frequence3.flac
-#EXTINF:0, - Flashback 80 Radio
-https://c23.radioboss.fm:8129/stream
 #EXTINF:0, - The Music Machine 1
 https://msmn3.co/proxy/x1mp31/stream
 #EXTINF:0, - The Music Machine 2
 https://msmn3.co/proxy/x2mp31/stream
-#EXTINF:0, - Le Bon Mix Cinema
-https://stream9.xdevel.com/audio10s976748-1740/stream/icecast.audio
 #EXTINF:0, - Le Bon Mix Soft
 https://stream9.xdevel.com/audio1s976748-1515/stream/icecast.audio
 #EXTINF:0, - Le Bon Mix Dynamic
 https://stream10.xdevel.com/audio15s976748-2112/stream/icecast.audio
-#EXTINF:0, - Le Bon Canal Remix 80s & 90s
-https://stream10.xdevel.com/audio14s976748-1800/stream/icecast.audio
 #EXTINF:0, - Le Bon Le Poste Parisien
 https://stream10.xdevel.com/audio12s976748-1798/stream/icecast.audio
-#EXTINF:0, - MybobbaFM
-https://radio.edith.gg/listen/mybobbafm/radio_flac.flac
-#EXTINF:0, - Radio evening in the Galaxy
-http://c01.lexycast.de:1650/stream
-#EXTINF:0, - Sveriges Radio
-https://live1.sr.se/p2-flac
 #EXTINF:0, - Haarlem Shuffle Radio
 https://stream.tbmp.nl:8000/haarlemshuffle.flac
-#EXTINF:0, - Brillux Radio
-http://bx01.junkes.it/flac
 #EXTINF:0, - Radio Jeunes Reims
 http://stream.rjrradio.fr:8000/rjr-dab.flac
-#EXTINF:0, - Radio Aristona
-http://radioaristona.homedns.org/listen/radio_aristona/radio.flac
-#EXTINF:0, - EireWave
-https://audio-edge-5bkfj.fra.h.radiomast.io/157d47f4-e348-4892-bcf6-5bc417683055
 #EXTINF:0, - Soma The In-Sound
 http://ice4.somafm.com/insound-256-mp3
 #EXTINF:0,SomaFM - Soma Bossa Beyond
@@ -435,8 +347,6 @@ https://isekoi-radio.com/listen/isekoi/radio.flac
 https://isekoi-radio.com/listen/ambient/ambientradio.flac
 #EXTINF:0, - HiFi Dream Radio
 https://cdn06-us-east.radio.cloud/80ba63862a97bd69c593cc7a2ccaab1c_hq
-#EXTINF:0, - Special Sound Radio
-http://c01.lexycast.de:3420/stream
 #EXTINF:0, - BeeRadio Classics
 http://stream.beeradio.nl/classics
 #EXTINF:0, - TNM Radio
