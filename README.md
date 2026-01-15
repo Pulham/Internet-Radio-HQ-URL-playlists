@@ -358,4 +358,7 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 
 26 Aug 2025 - Big clean up - many deletions - no additions - a few updated URLs
 
+15 Jan 2026 - Added Radio Paradise Beyond
+
+
 
