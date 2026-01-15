@@ -1,12 +1,14 @@
 #EXTM3U
-#EXTINF:0, - RP MELLOW
-http://stream.radioparadise.com/mellow-flacm
 #EXTINF:0, - RP GLOBAL
 http://stream.radioparadise.com/global-flacm
+#EXTINF:0, - RP MELLOW
+http://stream.radioparadise.com/mellow-flacm
 #EXTINF:0, - RP ROCK
 http://stream.radioparadise.com/rock-flacm
 #EXTINF:0, - RP MAIN
 http://stream.radioparadise.com/flacm
+#EXTINF:0, - RP BEYOND
+http://stream.radioparadise.com/beyond-flacm
 #EXTINF:0, - Radio Paradise 2050
 http://stream.radioparadise.com/radio2050-flacm
 #EXTINF:0, - Radio Paradise Serenity
