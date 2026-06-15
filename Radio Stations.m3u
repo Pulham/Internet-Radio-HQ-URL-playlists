@@ -355,3 +355,7 @@ http://stream.beeradio.nl/classics
 http://stream.tnm-radio.eu/ultra
 #EXTINF:0, - Big Bang Radio
 https://audio-edge-cmc51.fra.h.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
+#EXTINF:0, - SerrebiRadio 320 MP3
+https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
+#EXTINF:0, - SerrebiRadio HD Opus 320
+https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadioHD

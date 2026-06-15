@@ -360,5 +360,7 @@ m3u file listing mainly high quality internet radio streams (a few lower bitrate
 
 15 Jan 2026 - Added Radio Paradise Beyond
 
+15 Jun 2026 - Added SerrebiRadio (320 MP3 + 320 Opus HD) - blind DJ-curated dance/EDM/trance station from Vancouver, Canada.
+
 
 
