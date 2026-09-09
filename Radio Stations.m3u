@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:0, - RP GLOBAL
-http://stream.radioparadise.com/global-flacm
 #EXTINF:0, - RP MELLOW
 http://stream.radioparadise.com/mellow-flacm
-#EXTINF:0, - RP ROCK
-http://stream.radioparadise.com/rock-flacm
 #EXTINF:0, - RP MAIN
 http://stream.radioparadise.com/flacm
+#EXTINF:0, - RP GLOBAL
+http://stream.radioparadise.com/global-flacm
 #EXTINF:0, - RP BEYOND
 http://stream.radioparadise.com/beyond-flacm
+#EXTINF:0, - RP ROCK
+http://stream.radioparadise.com/rock-flacm
 #EXTINF:0, - Radio Paradise 2050
 http://stream.radioparadise.com/radio2050-flacm
 #EXTINF:0, - Radio Paradise Serenity
@@ -355,3 +355,11 @@ http://stream.beeradio.nl/classics
 http://stream.tnm-radio.eu/ultra
 #EXTINF:0, - Big Bang Radio
 https://audio-edge-cmc51.fra.h.radiomast.io/2b410ada-8653-40aa-a654-3e8954cf4a4d
+#EXTINF:0, - Rádio Clube de Lamego
+https://stream.zeno.fm/9prct7k8h0hvv
+#EXTINF:0, - SerrebiRadio
+https://radio.serrebiradio.com/listen/serrebiradio/SerrebiRadio
+#EXTINF:0, - 1st Greek New Age Flac Radio
+https://stream.newageradio.gr/listen/hq/radio.flac
+#EXTINF:0, - Sector Terra-Flac
+http://89.223.45.5:8000/terra-flac
